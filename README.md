@@ -6,3 +6,4 @@ it finds the meancolor in the cropped image
 this process is in an infinite loop with a timedelay of 1 second
 To install SimpleCV in Ubuntu, follow
       https://junise.wordpress.com/2016/01/17/installing-simplecv-in-ubuntu/
+Note that the output format is (B,R,G)
